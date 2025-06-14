@@ -1,0 +1,9 @@
+mkdir mylearning
+cd mylearning
+git init
+git remote add origin sshurl
+touch file
+git add .
+git commit -m ""
+git push -u origin main - only for initial push otherwise 
+git push origin main
