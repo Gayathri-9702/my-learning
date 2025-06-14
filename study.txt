@@ -7,3 +7,5 @@ git add .
 git commit -m ""
 git push -u origin main - only for initial push otherwise 
 git push origin main
+git pull origin main
+
